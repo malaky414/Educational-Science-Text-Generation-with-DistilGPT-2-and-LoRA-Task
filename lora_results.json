@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who proposed the theory of evolution by natural selection?",
+        "real_answer": "darwin",
+        "generated": "Question: Who proposed the theory of evolution by natural selection?\nAnswer:\nThe theory of evolution is the theory of evolution."
+    },
+    {
+        "question": "Each specific polypeptide has a unique linear sequence of which acids?",
+        "real_answer": "amino",
+        "generated": "Question: Each specific polypeptide has a unique linear sequence of which acids?\nAnswer:"
+    },
+    {
+        "question": "A frameshift mutation is a deletion or insertion of one or more of what that changes the reading frame of the base sequence?",
+        "real_answer": "nucleotides",
+        "generated": "Question: A frameshift mutation is a deletion or insertion of one or more of what that changes the reading frame of the base sequence?\nAnswer:"
+    },
+    {
+        "question": "What is an area of land called that is wet for all or part of the year?",
+        "real_answer": "wetland",
+        "generated": "Question: What is an area of land called that is wet for all or part of the year?\nAnswer:\nThe land is wet"
+    },
+    {
+        "question": "Surface waters are heated by the radiation from?",
+        "real_answer": "the sun",
+        "generated": "Question: Surface waters are heated by the radiation from?\nAnswer:\nAnswer:"
+    },
+    {
+        "question": "What are arteries, veins, and capillaries examples of?",
+        "real_answer": "blood vessels",
+        "generated": "Question: What are arteries, veins, and capillaries examples of?\nAnswer:"
+    },
+    {
+        "question": "Biochemical reactions of metabolism include what two general categories?",
+        "real_answer": "catabolic and anabolic",
+        "generated": "Question: Biochemical reactions of metabolism include what two general categories?\nAnswer:"
+    },
+    {
+        "question": "Compounds with aluminum and silicon are commonly found in the clay fractions of soils derived from what?",
+        "real_answer": "volcanic ash",
+        "generated": "Question: Compounds with aluminum and silicon are commonly found in the clay fractions of soils derived from what?\nAnswer:"
+    },
+    {
+        "question": "What organ has four major regions: the cerebrum, the diencephalon, the stem, and the cerebellum?",
+        "real_answer": "brain",
+        "generated": "Question: What organ has four major regions: the cerebrum, the diencephalon, the stem, and the cerebellum?\nAnswer:"
+    },
+    {
+        "question": "What can refer to a rope in a particular shape and a genetic structure involved in splicing?",
+        "real_answer": "lariat",
+        "generated": "Question: What can refer to a rope in a particular shape and a genetic structure involved in splicing?\nAnswer:"
+    }
+]
